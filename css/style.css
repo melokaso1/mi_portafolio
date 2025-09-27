@@ -293,9 +293,22 @@ input[type="radio"] {
   align-content: center ;
 }
 
-.seccion-video video {
+.seccion-video iframe {
+  display: block;
+  margin: 10px auto;
+  width: 80vh;
+  height: 250px;
+  max-width: 80%;
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  border: 2px solid var(--primary-blue);
+  transition: all 0.3s ease-in-out;
+
+}
+
+.seccion-video iframe:hover {
+  transform: scale(1.15);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.3);
 }
 .column3 ul{
     font-size: 1rem;
