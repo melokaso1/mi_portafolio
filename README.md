@@ -82,3 +82,5 @@ Incluye un video de presentación personal para conocer más sobre mí. 📹
 Si deseas contactarme, puedes usar la información proporcionada en la sección de contacto del portafolio o enviarme un mensaje directo. 🤝
 
 ¡Gracias por visitar mi portafolio! 🙏
+
+[Abre el portafolio virtual aqui](https://portafolio-melokaso.netlify.app/)
